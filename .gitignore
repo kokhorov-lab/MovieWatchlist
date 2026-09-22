@@ -1,0 +1,10 @@
+# Node dependencies
+**/node_modules/
+**/.env
+
+# Flutter / Dart build files
+**/build/
+**/.dart_tool/
+**/.idea/
+**/.vscode/
+*.iml
